@@ -36,5 +36,5 @@ Below repositories contains the topic wise short notes for Java and DSA to have 
 Happy learning!
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/suraj8108)
+- [LinkedIn](https://www.linkedin.com/in/suraj8108) - @iamsurajyadav
 - Email - suraj98693@gmail.com
