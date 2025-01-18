@@ -24,7 +24,7 @@ I'm a software developer with a passion for open-source projects and learning ne
 
 Below repositories contains the topic wise short notes for Java and DSA to have a quick preperation before interview. 
 
-1. https://github.com/suraj8108/learnJava:**Learn Java** 
+1. [**Learn Java**](https://github.com/suraj8108/learnJava) 
    - Start here to get a solid foundation on the basics.
 
 2. **Next Step**: Next Repo
