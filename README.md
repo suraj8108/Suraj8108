@@ -25,16 +25,15 @@ I'm a software developer with a passion for open-source projects and learning ne
 Below repositories contains the topic wise short notes for Java and DSA to have a quick preperation before interview. 
 
 1. [**Learn Java**](https://github.com/suraj8108/learnJava) 
-   - Start here to get a solid foundation on the basics.
+   - This repository contains the Java basics and OOPS notes.
 
-2. **Next Step**: Next Repo
-   - Once you've completed the current repository, move on to this one to deepen your understanding.
+2. [**Learn DSA**]:(https://github.com/suraj8108/learnDSA)
+   - This repository contains the notes of Striver A2Z sheet.
 
 3. **Advanced Learning**: Advanced Repo
    - For advanced topics and more complex projects, check out this repository.
 
 Happy learning!
-
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/suraj8108)
