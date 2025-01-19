@@ -3,7 +3,7 @@
 # Hi there, I'm Suraj Yadav 👋
 
 ## About Me
-I'm a software developer with a passion for open-source projects and learning new technologies.
+I'm a software developer with a passion to contribute in open-source projects and learning new technologies.
 
 ## Skills
 - **Languages**: Java, GoLang, JavaScript
