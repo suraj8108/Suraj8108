@@ -27,11 +27,11 @@ Below repositories contains the topic wise short notes for Java and DSA to have 
 1. [**Learn Java**](https://github.com/suraj8108/learnJava) 
    - This repository contains the Java basics and OOPS notes.
 
-2. [**Learn DSA**](https://github.com/suraj8108/learnDSA)
-   - This repository contains the notes of Striver A2Z sheet.
+2. [**Java STL**](https://github.com/suraj8108/learnJavaSTL)
+   - This repository contains the notes of Java STL and basic data structure.
 
-3. **Advanced Learning**: Advanced Repo
-   - For advanced topics and more complex projects, check out this repository.
+3. [**Learn DSA**](https://github.com/suraj8108/learnDSA)
+   - This repository contains the notes of Striver A2Z sheet.
 
 Happy learning!
 
